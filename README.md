@@ -159,16 +159,6 @@ This project helped me gain practical experience in:
 
 ---
 
-## 🔮 Future Improvements
-
-- Apply Transfer Learning (ResNet50, EfficientNet, MobileNetV2)
-- Add Grad-CAM visualization for model interpretability
-- Deploy the model as a web application using Flask or Streamlit
-- Improve dataset balancing and augmentation
-- Experiment with different CNN architectures
-
----
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
